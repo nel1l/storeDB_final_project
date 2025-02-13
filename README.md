@@ -50,10 +50,10 @@ The application consists of three main collections:
    {
       "_id": "ObjectId",
       "name": "string",
+      "url": "string",
       "price": "number",
       "color": "string",
-      "description": "string",
-      "category": "string"
+      "details": "string"
    }
    ```
 3. **Orders**
