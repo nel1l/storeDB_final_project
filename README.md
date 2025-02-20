@@ -94,6 +94,8 @@ The application consists of three main collections:
    npm start
    ```
 
+Also, to check API endpoints, I used the Postman program. Below are all the commands that can be run when using Postman.
+
 ## API Endpoints
 ### Authentication
 - **Register a new user**: `POST /api/auth/register`
